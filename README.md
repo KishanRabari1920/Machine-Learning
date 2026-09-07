@@ -1,4 +1,4 @@
-# Machine Learning Practice Repository
+#Trained and Tested Machine Learning Model Repository
 
 This repository contains my hands-on practice and implementation of various Machine Learning algorithms, preprocessing techniques, and data visualization concepts using Python.
 
